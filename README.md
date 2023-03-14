@@ -1,5 +1,5 @@
 ### Hello! 👋
-* Atuamente aprendendo flutter
+* Atuamente aprendendo flutter e Next.js
 * Interessado em desenvolvimento web e mobile
 ##
 
