@@ -15,14 +15,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBatista&layout=compact)](https://github.com/NatanBatista) -->
 
-# Meu Portfólio de Projetos de Graduação
-
-Neste repositório, você encontrará uma seleção dos projetos que desenvolvi ao longo do tempo, demonstrando minhas habilidades em programação web e mobile com Ruby on Rails, Flutter e Next.js.
-
-## Sobre
-
-Neste repositório, compartilho minha jornada e aprendizado. Durante minha graduação, explorei essas tecnologias em diferentes projetos, desenvolvendo habilidades em programação web e mobile.
-
 
 ## Contato
 Se você tiver interesse em discutir projetos ou oportunidades, sinta-se à vontade para entrar em contato comigo. Você pode me enviar um e-mail em [natanbatistaa21@gmail.com](mailto:natanbatistaa21@gmail.com).
