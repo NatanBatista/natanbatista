@@ -1,7 +1,7 @@
 ### Hello! 👋
 * Atuamente aprendendo Terraform e Kubernetes
 * Interessado Devops
-* Experiencia com AWS
+* Experiência com AWS
          
 <div style="display: inline_block"><br>
   <img align="center" alt="Kubernetes" height="30" width="100" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
