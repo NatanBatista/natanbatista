@@ -1,12 +1,12 @@
 ### Hello! 👋
-* Atuamente aprendendo flutter e Next.js
-* Interessado em desenvolvimento web e mobile
+* Atuamente aprendendo Terraform e Kubernetes
+* Interessado Devops
          
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ruby-on-rails-image" height="30" width="100" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-  <img align="center" alt="Next-js-image" height="30" width="100" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
-  <img align="center" alt="Flutter-image" height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt="Python-image" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Kubernetes" height="30" width="100" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img align="center" alt="Terraform" height="30" width="100" src="https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge">
+<!--   <img align="center" alt="Flutter-image" height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Python-image" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> -->
   
   
 
